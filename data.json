@@ -1,0 +1,449 @@
+{
+  "transactions": [
+    {
+      "amount": 5293,
+      "category": "Housing (EMI)",
+      "date": "2025-05-19",
+      "id": 1,
+      "title": "Home Loan EMI"
+    },
+    {
+      "amount": 1850,
+      "category": "Food",
+      "date": "2025-05-19",
+      "id": 2,
+      "title": "Swiggy Dinner"
+    },
+    {
+      "amount": 2000,
+      "category": "Food",
+      "date": "2025-05-18",
+      "id": 3,
+      "title": "Grocery Run"
+    },
+    {
+      "amount": 2450,
+      "category": "Transport",
+      "date": "2025-05-17",
+      "id": 4,
+      "title": "Fuel Petrol"
+    },
+    {
+      "amount": 1800,
+      "category": "Utilities",
+      "date": "2025-05-16",
+      "id": 5,
+      "title": "Electricity Bill"
+    },
+    {
+      "amount": 1250,
+      "category": "Subscriptions",
+      "date": "2025-05-15",
+      "id": 6,
+      "title": "Netflix & Spotify"
+    },
+    {
+      "amount": 3757,
+      "category": "Others",
+      "date": "2025-05-14",
+      "id": 7,
+      "title": "Shopping & Others"
+    }
+  ],
+  "expenses": [
+    {
+      "category": "Housing (EMI)",
+      "amount": 5293,
+      "pct": 28.8,
+      "color": "#00d084"
+    },
+    {
+      "category": "Food",
+      "amount": 3850,
+      "pct": 20.9,
+      "color": "#eab308"
+    },
+    {
+      "category": "Transport",
+      "amount": 2450,
+      "pct": 13.3,
+      "color": "#3b82f6"
+    },
+    {
+      "category": "Utilities",
+      "amount": 1800,
+      "pct": 9.8,
+      "color": "#8b5cf6"
+    },
+    {
+      "category": "Subscriptions",
+      "amount": 1250,
+      "pct": 6.8,
+      "color": "#ec4899"
+    },
+    {
+      "category": "Others",
+      "amount": 3757,
+      "pct": 20.4,
+      "color": "#64748b"
+    }
+  ],
+  "tasks": [
+    {
+      "category": "Projects",
+      "completed": false,
+      "id": 1,
+      "name": "Power BI Practice",
+      "tagClass": "tag-skill",
+      "tagLabel": "Skill"
+    },
+    {
+      "category": "MBA Prep",
+      "completed": false,
+      "id": 2,
+      "name": "PGCET MBA Quant Practice",
+      "tagClass": "tag-mba",
+      "tagLabel": "MBA Prep"
+    },
+    {
+      "category": "Personal",
+      "completed": false,
+      "id": 3,
+      "name": "Update LinkedIn Profile",
+      "tagClass": "tag-personal",
+      "tagLabel": "Personal"
+    },
+    {
+      "category": "Work",
+      "completed": false,
+      "id": 4,
+      "name": "Workforce Analytics Report",
+      "tagClass": "tag-work",
+      "tagLabel": "Work"
+    },
+    {
+      "category": "Personal",
+      "completed": false,
+      "id": 5,
+      "name": "Read 20 Pages (Book)",
+      "tagClass": "tag-personal",
+      "tagLabel": "Personal"
+    }
+  ],
+  "reminders": [
+    {
+      "date": "25 May",
+      "hour": "10:00 AM",
+      "icon": "📅",
+      "iconBg": "#3b1a1a",
+      "iconColor": "#ef4444",
+      "id": 1,
+      "sub": "Home Loan EMI",
+      "title": "EMI Payment"
+    },
+    {
+      "date": "Today",
+      "hour": "7:00 PM",
+      "icon": "💪",
+      "iconBg": "rgba(0, 208, 132, 0.12)",
+      "iconColor": "#00d084",
+      "id": 2,
+      "sub": "Push Day",
+      "title": "Gym Workout"
+    },
+    {
+      "date": "Tomorrow",
+      "hour": "8:00 AM",
+      "icon": "📚",
+      "iconBg": "rgba(139, 92, 246, 0.15)",
+      "iconColor": "#8b5cf6",
+      "id": 3,
+      "sub": "Quant Practice",
+      "title": "CAT Preparation"
+    },
+    {
+      "date": "Tomorrow",
+      "hour": "6:00 PM",
+      "icon": "📊",
+      "iconBg": "rgba(59, 130, 246, 0.12)",
+      "iconColor": "#3b82f6",
+      "id": 4,
+      "sub": "Dashboard Building",
+      "title": "Power BI Practice"
+    },
+    {
+      "id": 1779300097171,
+      "title": "wake up early",
+      "sub": "daily routine",
+      "date": "Tomorrow",
+      "hour": "7:30 AM",
+      "rawDate": "2026-05-21",
+      "rawTime": "07:30",
+      "icon": "🔔",
+      "iconBg": "rgba(234, 179, 8, 0.15)",
+      "iconColor": "#eab308"
+    },
+    {
+      "id": 1779300101006,
+      "title": "wake up early",
+      "sub": "daily routine",
+      "date": "Tomorrow",
+      "hour": "7:30 AM",
+      "rawDate": "2026-05-21",
+      "rawTime": "07:30",
+      "icon": "🔔",
+      "iconBg": "rgba(234, 179, 8, 0.15)",
+      "iconColor": "#eab308"
+    },
+    {
+      "id": 1779300106610,
+      "title": "wake up early",
+      "sub": "daily routine",
+      "date": "Tomorrow",
+      "hour": "7:30 AM",
+      "rawDate": "2026-05-21",
+      "rawTime": "07:30",
+      "icon": "🔔",
+      "iconBg": "rgba(234, 179, 8, 0.15)",
+      "iconColor": "#eab308"
+    },
+    {
+      "id": 1779300107281,
+      "title": "wake up early",
+      "sub": "daily routine",
+      "date": "Tomorrow",
+      "hour": "7:30 AM",
+      "rawDate": "2026-05-21",
+      "rawTime": "07:30",
+      "icon": "🔔",
+      "iconBg": "rgba(234, 179, 8, 0.15)",
+      "iconColor": "#eab308"
+    },
+    {
+      "id": 1779300107445,
+      "title": "wake up early",
+      "sub": "daily routine",
+      "date": "Tomorrow",
+      "hour": "7:30 AM",
+      "rawDate": "2026-05-21",
+      "rawTime": "07:30",
+      "icon": "🔔",
+      "iconBg": "rgba(234, 179, 8, 0.15)",
+      "iconColor": "#eab308"
+    },
+    {
+      "id": 1779300108304,
+      "title": "wake up early",
+      "sub": "daily routine",
+      "date": "Tomorrow",
+      "hour": "7:30 AM",
+      "rawDate": "2026-05-21",
+      "rawTime": "07:30",
+      "icon": "🔔",
+      "iconBg": "rgba(234, 179, 8, 0.15)",
+      "iconColor": "#eab308"
+    },
+    {
+      "id": 1779300108873,
+      "title": "wake up early",
+      "sub": "daily routine",
+      "date": "Tomorrow",
+      "hour": "7:30 AM",
+      "rawDate": "2026-05-21",
+      "rawTime": "07:30",
+      "icon": "🔔",
+      "iconBg": "rgba(234, 179, 8, 0.15)",
+      "iconColor": "#eab308"
+    },
+    {
+      "id": 1779300109114,
+      "title": "wake up early",
+      "sub": "daily routine",
+      "date": "Tomorrow",
+      "hour": "7:30 AM",
+      "rawDate": "2026-05-21",
+      "rawTime": "07:30",
+      "icon": "🔔",
+      "iconBg": "rgba(234, 179, 8, 0.15)",
+      "iconColor": "#eab308"
+    }
+  ],
+  "bills": [
+    {
+      "amt": "₹5,293",
+      "icon": "🏠",
+      "iconBg": "rgba(239, 68, 68, 0.12)",
+      "iconColor": "#ef4444",
+      "id": 1,
+      "name": "Home Loan EMI",
+      "status": "Due in 6 days",
+      "statusClass": "status-late"
+    },
+    {
+      "amt": "₹3,810",
+      "icon": "🚗",
+      "iconBg": "rgba(59, 130, 246, 0.12)",
+      "iconColor": "#3b82f6",
+      "id": 2,
+      "name": "Car Loan EMI",
+      "status": "Paid",
+      "statusClass": "status-paid"
+    },
+    {
+      "amt": "₹2,450",
+      "icon": "💳",
+      "iconBg": "rgba(139, 92, 246, 0.15)",
+      "iconColor": "#8b5cf6",
+      "id": 3,
+      "name": "Credit Card Bill",
+      "status": "Due in 12 days",
+      "statusClass": "status-due"
+    }
+  ],
+  "goals": [
+    {
+      "color": "var(--green)",
+      "id": 1,
+      "name": "Analytics Transition",
+      "pct": 60
+    },
+    {
+      "color": "var(--purple)",
+      "id": 2,
+      "name": "MBA Admission",
+      "pct": 40
+    },
+    {
+      "color": "var(--orange)",
+      "id": 3,
+      "name": "Financial Freedom",
+      "pct": 25
+    },
+    {
+      "color": "var(--blue)",
+      "id": 4,
+      "name": "Fitness Goal",
+      "pct": 55
+    }
+  ],
+  "recentActivities": [
+    {
+      "id": 1779300109114,
+      "text": "Added reminder: wake up early",
+      "time": "Just now"
+    },
+    {
+      "id": 1779300108873,
+      "text": "Added reminder: wake up early",
+      "time": "Just now"
+    },
+    {
+      "id": 1779300108304,
+      "text": "Added reminder: wake up early",
+      "time": "Just now"
+    },
+    {
+      "id": 1779300107445,
+      "text": "Added reminder: wake up early",
+      "time": "Just now"
+    },
+    {
+      "id": 1779300107281,
+      "text": "Added reminder: wake up early",
+      "time": "Just now"
+    },
+    {
+      "id": 1779300106610,
+      "text": "Added reminder: wake up early",
+      "time": "Just now"
+    },
+    {
+      "id": 1779300101006,
+      "text": "Added reminder: wake up early",
+      "time": "Just now"
+    },
+    {
+      "id": 1779300097171,
+      "text": "Added reminder: wake up early",
+      "time": "Just now"
+    },
+    {
+      "id": 1,
+      "text": "Added expense: Swiggy",
+      "time": "1 hour ago"
+    },
+    {
+      "id": 2,
+      "text": "Completed task: Resume Parser Project",
+      "time": "3 hours ago"
+    },
+    {
+      "id": 3,
+      "text": "Updated goal: Analytics Transition",
+      "time": "5 hours ago"
+    },
+    {
+      "id": 4,
+      "text": "Added reminder: Gym Workout",
+      "time": "6 hours ago"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Work",
+      "hours": 42,
+      "id": 1,
+      "level": "Intermediate",
+      "name": "Workforce Analytics",
+      "pct": 65
+    },
+    {
+      "category": "Tech",
+      "hours": 78,
+      "id": 2,
+      "level": "Expert",
+      "name": "Power BI Dashboarding",
+      "pct": 85
+    },
+    {
+      "category": "MBA Prep",
+      "hours": 24,
+      "id": 3,
+      "level": "Beginner",
+      "name": "PGCET MBA Quant",
+      "pct": 40
+    },
+    {
+      "category": "Work",
+      "hours": 55,
+      "id": 4,
+      "level": "Intermediate",
+      "name": "Strategic HR Management",
+      "pct": 70
+    }
+  ],
+  "notes": [
+    {
+      "content": "Workforce Planning Guidelines:\n\n1. Define Organizational Objectives\n2. Analyze Current Workforce Supply\n3. Forecast Future Demand Requirements\n4. Perform Gap Analysis (Shortages/Surpluses)\n5. Develop Action Plans (Recruit, Retrain, Retain)",
+      "date": "2026-05-20T14:30:00Z",
+      "desc": "Core principles of modern HR analytics, supply vs demand models, gap analysis.",
+      "id": 1,
+      "title": "Workforce Planning Guidelines"
+    },
+    {
+      "content": "PGCET MBA Quant Preparation Plan:\n\n- Arithmetic: Percentages, Profit & Loss, Ratio & Proportion, Time & Work, Time Speed Distance.\n- Algebra: Linear/Quadratic Equations, Progressions, Logarithms.\n- Geometry: Mensuration, Coordinate Geometry.\n- Data Interpretation: Tables, Bar Charts, Pie Charts, Line Graphs.",
+      "date": "2026-05-19T09:15:00Z",
+      "desc": "Topics list: Arithmetic, Algebra, Geometry, Data Interpretation.",
+      "id": 2,
+      "title": "Quant Prep Syllabus (PGCET)"
+    },
+    {
+      "content": "Weekly Study Routine:\n\n- Weekdays (Mon-Fri):\n  * 6:00 AM - 7:30 AM: Study Session (Quant/DI)\n  * 8:00 PM - 9:00 PM: Revision & Practice Quizzes\n- Weekends (Sat-Sun):\n  * 8:00 AM - 12:00 PM: Dedicated Mock Tests & Review\n  * 3:00 PM - 5:00 PM: Skill Project Work (Power BI / Workforce)",
+      "date": "2026-05-18T18:45:00Z",
+      "desc": "Grid schedule for working days and weekends study block allocations.",
+      "id": 3,
+      "title": "Weekly MBA Study Schedule"
+    }
+  ],
+  "activeNoteId": 1
+}
